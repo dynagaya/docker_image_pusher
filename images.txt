@@ -8,3 +8,4 @@ nginx:alpine3.20
 redis:alpine
 mysql:8.0.39-bookworm
 mariadb:noble
+google/pause:asm
