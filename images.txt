@@ -17,5 +17,5 @@
 #registry.k8s.io/kube-proxy:v1.28.0
 #registry.k8s.io/etcd:3.5.9-0
 #registry.k8s.io/coredns/coredns:v1.10.1
-gitlab-ee:nightly
-jenkins:jdk21
+gitlab-ee
+jenkins
