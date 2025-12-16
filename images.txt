@@ -7,15 +7,15 @@
 
 #nginx:alpine3.20
 #redis:alpine
-mysql:8.0.44
+#mysql:8.0.44
 #mariadb:noble
-gitlab/gitlab-ee
-jenkins/jenkins
-openlistteam/openlist:beta-aio
-saltbo/zpan:latest
-cloudreve/cloudreve:latest
-onlyoffice/documentserver:latest
-zhaojun1998/zfile:latest
-lanol/filecodebox:latest
-nextcloud:latest
-pritunl/pritunl
+#gitlab/gitlab-ee
+#jenkins/jenkins
+#openlistteam/openlist:beta-aio
+#saltbo/zpan:latest
+#cloudreve/cloudreve:latest
+#onlyoffice/documentserver:latest
+#zhaojun1998/zfile:latest
+#lanol/filecodebox:latest
+#nextcloud:latest
+jippi/pritunl
