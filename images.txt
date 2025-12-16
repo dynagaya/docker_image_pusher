@@ -7,15 +7,15 @@
 
 #nginx:alpine3.20
 #redis:alpine
-#mysql:8.0.39-bookworm
+mysql:8.0.44
 #mariadb:noble
-#k8s.gcr.io/pause:3.2
-#registry.k8s.io/pause:3.9
-#registry.k8s.io/kube-apiserver:v1.28.0
-#registry.k8s.io/kube-controller-manager:v1.28.0
-#registry.k8s.io/kube-scheduler:v1.28.0
-#registry.k8s.io/kube-proxy:v1.28.0
-#registry.k8s.io/etcd:3.5.9-0
-#registry.k8s.io/coredns/coredns:v1.10.1
 gitlab/gitlab-ee
 jenkins/jenkins
+openlistteam/openlist:beta-aio
+saltbo/zpan:latest
+cloudreve/cloudreve:latest
+onlyoffice/documentserver:latest
+zhaojun1998/zfile:latest
+lanol/filecodebox:latest
+nextcloud:latest
+pritunl/pritunl
