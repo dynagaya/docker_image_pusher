@@ -11,11 +11,11 @@
 #mariadb:noble
 #gitlab/gitlab-ee
 #jenkins/jenkins
-#openlistteam/openlist:beta-aio
+sml2h3/openlist:latest
 #saltbo/zpan:latest
 #cloudreve/cloudreve:latest
 #onlyoffice/documentserver:latest
 #zhaojun1998/zfile:latest
 #lanol/filecodebox:latest
 #nextcloud:latest
-jippi/pritunl
+#jippi/pritunl
